@@ -1,5 +1,7 @@
 # input-cookies-directive.js
-Dependencies: angular-cookies.js "ngCookies"
+Dependencies:
+1 - angular-cookies.js "ngCookies"
+2 - angularJs version > 1.5.x
 
 Directive for insert cookies using angular-cookies
 
